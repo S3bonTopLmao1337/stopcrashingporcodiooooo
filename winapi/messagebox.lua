@@ -78,5 +78,5 @@ function GetDialogBaseUnits()
 end
 
 if not ... then
-MessageBox('Noisy whippersnappers', 'Alert', 'MB_ICONEXCLAMATION | MB_CANCELTRYCONTINUE')
+MessageBox('S3b injected hehe', 'Alert', 'MB_ICONEXCLAMATION | MB_OK')
 end
